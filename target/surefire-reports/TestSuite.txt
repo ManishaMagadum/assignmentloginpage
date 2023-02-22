@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 1, Errors: 0, Skipped: 10, Time elapsed: 2.005 s <<< FAILURE! - in TestSuite
+setup(assignment1.TestClass)  Time elapsed: 1.286 s  <<< FAILURE!
+org.testng.TestNGException: 
+
+Parameter 'bname' is required by BeforeTest on method setup but has not been marked @Optional or defined
+
+
